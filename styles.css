@@ -1,0 +1,13 @@
+body{background-color: coral;
+    font-family:'Georgia',cursive;
+  }
+  nav{background-color: beige;}
+  nav>ul{text-align: right;}
+  nav>ul>li{text-transform: uppercase;
+  
+    display :inline-block;
+    padding:30px;
+  }
+  
+  nav>ul>li>a{color:purple;}
+  
